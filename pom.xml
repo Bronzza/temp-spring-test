@@ -26,6 +26,7 @@
         <argLine>--illegal-access=permit</argLine>
     </properties>
 
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
